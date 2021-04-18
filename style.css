@@ -31,3 +31,11 @@ body {
 	margin: 0;
 	font-weight: bold;
 }
+
+#so {
+	font-weight: bold;
+	font-size: 10px;
+	position: absolute;
+	top: 96%;
+	left: 0%;
+}
